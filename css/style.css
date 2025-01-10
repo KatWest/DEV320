@@ -4,11 +4,12 @@
     --secondary-color: #7f738b;
     --tertiary-color: #b2a1c4;
 }
-div {
+/*div {
     border: solid var(--border-color);
-}
+}*/
 .profileIMG {
-    width:250px; 
+    max-width:250px; 
+    max-height:250px; 
     margin:0px;
 }
 
