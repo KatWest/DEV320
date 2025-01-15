@@ -63,10 +63,10 @@
 @media only screen and (orientation: landscape) {
     .body {
         background-color: var(--primary-color);
+        color:aliceblue;
     }
 
     .col {
         background-color: var(--primary-color);
-        color:aliceblue;
     }
 }
